@@ -9,5 +9,11 @@
     "python",
     "java"
   ],
-  "gestures": []
+  "gestures": [
+    {
+      "to": "AlsammanAlsamman",
+      "type": "watching",
+      "at": "2026-10-07T20:49:32+00:00"
+    }
+  ]
 }
